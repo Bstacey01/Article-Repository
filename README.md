@@ -1,2 +1,2 @@
 # Article-Repository
-Repository base don article from PCGamer
+Repository based on article from PCGamer
